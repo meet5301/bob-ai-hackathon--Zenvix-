@@ -3,14 +3,14 @@ team:
   track: "AI"
   lead:
     name: "Meet Gol"
-    email: "your@email.com"
+    email: "meetgol22@email.com"
   members:
-    - name: "Meet Gol"
-      email: "your@email.com"
-    - name: "Rahul Patel"
-      email: "rahul@email.com"
-    - name: "Amit Shah"
-      email: "amit@email.com"
+    - name: "Uttam ladani"
+      email: "uttamladani16@gmail.com"
+    - name: "karan vekariya"
+      email: "karanvekariya453@email.com"
+    - name: "bhagvat hariyani"
+      email: "hariyanibhagvat@email.com"
 
 submission:
   title: "Smart Student Assistant"
